@@ -1,5 +1,5 @@
 # EUSFLAT2025
-Code for the _(alpha,beta)-SRBMs classifier appearing in the paper_:
+Code for the **(alpha,beta)-SRBMs classifier** appearing in the paper:
 D. Petturiti and M. Rifqi (2025).
 _Alpha-Maxmin Classification with an Ensemble of Structural Restricted Boltzmann Machines_.
 
